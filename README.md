@@ -1,1 +1,1 @@
-# ScopeBE
+# scope-api

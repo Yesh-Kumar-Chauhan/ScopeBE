@@ -1,0 +1,6 @@
+@Scope_Backened_HostAddress = http://localhost:5175
+
+GET {{Scope_Backened_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
